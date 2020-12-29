@@ -3,9 +3,7 @@
 Зроблено Палехою Богданом ІО-83
 Basic:
 
-checkpatch hello.c
 
-![lab6](img/1.jpg)
 
 встановлення модуля hello
 
