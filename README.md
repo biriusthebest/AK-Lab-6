@@ -1,10 +1,17 @@
 # Лабораторна робота №6 # 
 
 Зроблено Палехою Богданом ІО-83
-## Advanced ## 
+Basic:
 
-### Встановлення та видалення модулів hello1 та hello2. ###  
-Встановлюемо с параметром 5, при видаленні  hello1 бачимо час виконання
+checkpatch hello.c
 
-![Image alt](https://github.com/Gronario/lab6_ak/blob/main/1.png) 
+![lab6](img/1.jpg)
+
+встановлення модуля hello
+
+![lab6](img/2.jpg)
+
+видалення модуля hello
+
+![lab6](img/3.jpg)
 
